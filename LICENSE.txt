@@ -1,0 +1,12 @@
+EIT Stroke Classification Pipeline
+==================================
+
+This software package is provided for research and educational purposes.
+
+The original UCL Stroke EIT Dataset is subject to its original license terms.
+Please cite the original dataset and methodology papers if you use this code.
+
+For academic use, please ensure proper attribution to:
+- The original UCL stroke EIT research team
+- SA-GSA methodology developers
+- This pipeline implementation
